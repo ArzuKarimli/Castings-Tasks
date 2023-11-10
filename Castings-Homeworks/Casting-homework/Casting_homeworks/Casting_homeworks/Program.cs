@@ -3,5 +3,7 @@ using Casting_homeworks.Controller;
 
 //AuthorController controller = new AuthorController();
 //controller.GetAge();
-AccountController accountController = new AccountController();
-accountController.Login();
+EmployeeController employeeController = new EmployeeController();
+employeeController.CountEmployees();
+//AccountController accountController = new AccountController();
+//accountController.Login();

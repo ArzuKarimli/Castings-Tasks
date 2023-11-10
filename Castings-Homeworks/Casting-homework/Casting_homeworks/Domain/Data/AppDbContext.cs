@@ -28,7 +28,7 @@ namespace Domain.Data
             {
                 new Employee(){Id=1,Name="Nergiz",Surname="Ehmedova",Salary=1200,Birthday=new(1992,02,17)},
                 new Employee(){Id=2,Name="Nezrin",Surname="Abbasova",Salary=2200,Birthday=new(1993,02,15)},
-                new Employee(){Id=3,Name="Ilahe",Surname="Memmedova",Salary=2500,Birthday=new(1989,03,14)},
+                new Employee(){Id=3,Name="Ilahe",Surname="Memmedova",Salary=2500,Birthday=new(1984,03,14)},
                 new Employee(){Id=4,Name="Tebriz",Surname="Axundov",Salary=3000,Birthday=new(1990,10,12)},
             };
         }

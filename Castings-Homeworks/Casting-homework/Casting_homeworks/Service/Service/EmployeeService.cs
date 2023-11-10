@@ -14,7 +14,7 @@ namespace Service.Service
         public int CountEmployees(DateTime startDate, DateTime endDate, double salary)
         {
             int count = 0;
-            var employees = new List<Employee>();
+            var employees =AppDbContext.GetAllEmployes();
 
             foreach (var employee in employees)
             {

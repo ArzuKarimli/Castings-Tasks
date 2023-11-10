@@ -17,7 +17,7 @@ namespace Casting_homeworks.Controller
         }
          public void CountEmployees()
         {
-            DateTime startDate = new(1985, 01, 01);
+            DateTime startDate = new(1980, 01, 01);
             DateTime endDate = new(2000, 01, 01);
             double salary = 2000;
             var result=_employeeService.CountEmployees(startDate, endDate, salary);
