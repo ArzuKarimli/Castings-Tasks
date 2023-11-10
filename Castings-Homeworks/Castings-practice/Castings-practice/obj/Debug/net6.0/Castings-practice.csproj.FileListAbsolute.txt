@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Code-Academy-Tasks\my project\Castings-practice\Castings-practice\bin\Debug\net6.0\Castings-practice.exe
+C:\Users\User\Desktop\Code-Academy-Tasks\my project\Castings-practice\Castings-practice\bin\Debug\net6.0\Castings-practice.deps.json
+C:\Users\User\Desktop\Code-Academy-Tasks\my project\Castings-practice\Castings-practice\bin\Debug\net6.0\Castings-practice.runtimeconfig.json
+C:\Users\User\Desktop\Code-Academy-Tasks\my project\Castings-practice\Castings-practice\bin\Debug\net6.0\Castings-practice.dll
+C:\Users\User\Desktop\Code-Academy-Tasks\my project\Castings-practice\Castings-practice\bin\Debug\net6.0\Castings-practice.pdb
+C:\Users\User\Desktop\Code-Academy-Tasks\my project\Castings-practice\Castings-practice\obj\Debug\net6.0\Castings-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code-Academy-Tasks\my project\Castings-practice\Castings-practice\obj\Debug\net6.0\Castings-practice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code-Academy-Tasks\my project\Castings-practice\Castings-practice\obj\Debug\net6.0\Castings-practice.AssemblyInfo.cs
+C:\Users\User\Desktop\Code-Academy-Tasks\my project\Castings-practice\Castings-practice\obj\Debug\net6.0\Castings-practice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code-Academy-Tasks\my project\Castings-practice\Castings-practice\obj\Debug\net6.0\Castings-practice.dll
+C:\Users\User\Desktop\Code-Academy-Tasks\my project\Castings-practice\Castings-practice\obj\Debug\net6.0\refint\Castings-practice.dll
+C:\Users\User\Desktop\Code-Academy-Tasks\my project\Castings-practice\Castings-practice\obj\Debug\net6.0\Castings-practice.pdb
+C:\Users\User\Desktop\Code-Academy-Tasks\my project\Castings-practice\Castings-practice\obj\Debug\net6.0\Castings-practice.genruntimeconfig.cache
+C:\Users\User\Desktop\Code-Academy-Tasks\my project\Castings-practice\Castings-practice\obj\Debug\net6.0\ref\Castings-practice.dll
