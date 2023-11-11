@@ -23,11 +23,12 @@ namespace Service.Service
             List<Product> filteredProducts=new List<Product>();
            foreach (var product in AppDbContext.AllProducts())
             {
-                if (product.Name.Contains(searchText.ToLower()))
+                if (product.Name.ToLower().Contains(searchText.ToLower()))
                 {
                    filteredProducts.Add(product);
                 }
-            }return filteredProducts;
+            }
+            return filteredProducts;
         }
     }
 }

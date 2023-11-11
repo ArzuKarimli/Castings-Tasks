@@ -50,9 +50,8 @@ namespace Casting_homeworks.Controller
                             Console.WriteLine(product.Name + "-" + product.Price);
                         }
                         break;
-
-                
-
+                    default:
+                        break;
                 }
 
             }
